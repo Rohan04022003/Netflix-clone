@@ -1,0 +1,14 @@
+header{
+    background-image: url(../image/img\ 1.jpg);
+    background-position: center;
+    opacity: 50%;
+}
+
+.second-page-right{
+    position: relative;
+}
+
+.stronger-thing-download{
+    position: absolute;
+    bottom: 0;
+}
